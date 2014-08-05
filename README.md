@@ -1,4 +1,13 @@
-Estudando GitHub
+Aprendendo GitHub 3  
 ===================
 
-Alterando arquivos no git
+Aprendendo GitHub com videos aulas
+
+Contato
+-------
+
+[Vinicius Tolesano]{http://facebook.com} - Faça uma visita no meu perfil
+
+
+
+
