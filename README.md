@@ -1,4 +1,4 @@
-PrimeiroRepositorio
+Estudando GitHub
 ===================
 
-estudando github
+Alterando arquivos no git
