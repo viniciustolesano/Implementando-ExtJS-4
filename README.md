@@ -1,12 +1,10 @@
-Aprendendo GitHub 3  
-===================
+Curso de ExtJS 4  
+================
 
-Aprendendo GitHub com videos aulas
+Intrutor e font
+---------------
 
-Contato
--------
-
-[Vinicius Tolesano]{http://facebook.com} - Faça uma visita no meu perfil
+[Loiane Groner]{https://www.youtube.com/playlist?list=PL402A9DC881FB26F9} - Muito bom quem tiver a oportunidade pode fazer
 
 
 
